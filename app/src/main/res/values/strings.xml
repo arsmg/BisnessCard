@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udacity Bisness Card</string>
+    <string name="phone_number">650-555-5555</string>
+    <string name="adress">Mountain View, CA 94043</string>
+    <string name="location">2465 Latham St</string>
+    <string name="udacity">Udacity</string>
+</resources>
